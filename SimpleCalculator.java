@@ -5,6 +5,8 @@ class SimpleCalculator {
 
         char operator;
         Double number1, number2, result;
+        Double number4;
+
 
         // create an object of Scanner class
         Scanner input = new Scanner(System.in);
